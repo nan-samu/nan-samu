@@ -24,15 +24,10 @@
   <a href="#" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="Windows" width="40" height="40" title="Windows"/></a>
   <a href="#" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" title="Python"/></a>
   <a href="#" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="SQL" width="40" height="40" title="SQL"/></a>
-  <a href="#" rel="noreferrer"><img src="https://raw.githubusercontent.com/logos-collection/logos-collection/main/logos/nmap/nmap.png" alt="Nmap" width="40" height="40" title="Nmap"/></a>
 </p>
 ---
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nan-samu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nan-samu&layout=compact&langs_count=8&theme=dracula" alt="Linguagens Mais Usadas" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nan-samu&label=VISITANTES+DO+PERFIL&color=00ff00&style=flat-square" alt="Contador de Visitas" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=nan-samu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nan-samu&layout=compact&langs_count=8&theme=dracula" alt="Linguagens Mais Usadas" />
 </p>
