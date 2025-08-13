@@ -8,8 +8,8 @@
 - 💬 Sempre aberto para me conectar e trocar ideias sobre o início da carreira em segurança!
 
 <p>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=nan-samu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nan-samu&layout=compact&langs_count=8&theme=dracula" alt="Linguagens Mais Usadas" />
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=nan-samu&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nan-samu&layout=compact&langs_count=8&theme=dark" alt="Linguagens Mais Usadas" />
 </p>
 
 
