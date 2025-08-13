@@ -17,7 +17,7 @@
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=windows,linux,kali,vim,py,postgres,sqlite">
+    <img src="https://skillicons.dev/icons?i=windows,linux,kali,vim,neovim,py,postgres,sqlite">
   </a>
 </p>
 
