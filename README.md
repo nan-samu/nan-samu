@@ -20,10 +20,9 @@
 ## 🛠️ Tecnologias e Ferramentas (Em Aprendizado)
 
 <p align="center">
-  <a href="#" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" title="Linux"/></a>
-  <a href="#" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="Windows" width="40" height="40" title="Windows"/></a>
-  <a href="#" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" title="Python"/></a>
-  <a href="#" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="SQL" width="40" height="40" title="SQL"/></a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=windows,linux,kali,vim,py,postgres,sqlite">
+  </a>
 </p>
 ---
 
